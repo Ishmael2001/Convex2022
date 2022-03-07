@@ -1,0 +1,7 @@
+{
+    "x1":2,
+    "x2":5,
+    "x3":8,
+    "y":"add(mul(add(sin(add(x1,1)),cos(mul(x2,2))),tan(ln(x3))),mul(add(sin(add(x2,1)),cos(mul(x1,2))),exp(add(sin(x3),1))))",
+    "z":"(math.sin(x1+1)+math.cos(2*x2))*math.tan(math.log(x3))+(math.sin(x2+1)+math.cos(2*x1))*math.exp(1+math.sin(x3))"
+}
